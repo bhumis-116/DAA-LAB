@@ -1,0 +1,2 @@
+# DAA-LAB
+Huffman coding 
